@@ -1,0 +1,9 @@
+rtmp://27.254.63.108:1935/live/tsp1.stream
+rtmp://27.254.63.108:1935/live/tsp2.stream
+rtmp://27.254.63.108:1935/live/tsp3.stream
+rtmp://27.254.63.108:1935/live/tsp4.stream
+rtmp://27.254.63.108:1935/live/tsp5.stream
+rtmp://27.254.63.108:1935/live/tsp6.stream
+rtmp://27.254.63.108:1935/live/tsp7.stream
+rtmp://27.254.63.108:1935/live/tsphd1.stream
+rtmp://27.254.63.108:1935/live/tsphd2.stream
